@@ -3,7 +3,7 @@ name: Robot Framework Tests Frontend
 on:
   pull_request:
     branches:
-      - main
+      - name: demo:create action
       
 jobs:
   robot-framework-testes-frontend:
